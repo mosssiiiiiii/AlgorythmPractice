@@ -24,6 +24,3 @@ function staircase(n){
 //         console.log(' '.repeat(n-i) + '#'.repeat(i))
 //     }
 // }
-
-
-staircase2(3)
